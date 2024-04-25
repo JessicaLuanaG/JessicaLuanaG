@@ -11,9 +11,9 @@ No momento estou estudando o HTML, para que nos proximos meses eu aprenda o CSS 
  <hr>
 </div>
 <div align="center">
-  <a href="https://www.instagram.com/dhglmx_15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title=Instagram></a>
-  <a href = "mailto:jessicaedines15@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
-  <a href="https://www.linkedin.com/in/jessica-luana-gula-dreher/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF0000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
+  <a href="https://www.instagram.com/dhglmx_15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A80608?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title=Instagram></a>
+  <a href = "mailto:jessicaedines15@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A80608?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
+  <a href="https://www.linkedin.com/in/jessica-luana-gula-dreher/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A80608?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
 
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&section=footer">
