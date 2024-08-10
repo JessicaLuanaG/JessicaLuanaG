@@ -5,7 +5,7 @@
 
 <hr>
 <div>
-<p align="center">   Sou estudante do <b>2º ano de desenvolvimento de sistemas</b> do Colégio Estadual de Pato Branco-CEPB e comecei recentemente o curso de <b>programador de sistema</b> do Senac.
+<p align="center">   Sou estudante do <b>2º ano de desenvolvimento de sistemas</b> do Colégio Estadual de Pato Branco-CEPB e terminei recentemente o curso de <b>programador de sistema</b> do Senac.
 <br>
 No momento estou estudando o HTML, para que nos proximos meses eu aprenda o CSS e o Javascript. </p>
  <hr>
