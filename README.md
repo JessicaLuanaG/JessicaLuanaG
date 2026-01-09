@@ -5,9 +5,9 @@
 
 <hr>
 <div>
-<p align="center">   Sou estudante do <b>3º ano de desenvolvimento de sistemas</b> do Colégio Estadual de Pato Branco-CEPB e em 2024 finalizei o curso de <b>programador de sistema</b> do Senac.
+<p align="center">   Me formei como tecnica de <b>desenvolvimento de sistemas</b> no Colégio Estadual de Pato Branco-CEPB e em 2024 finalizei o curso de <b>programador de sistema</b> do Senac.
 <br>
-No momento estou estudando o PHP. </p>
+Sei PHP, HTML, Delphi, Java, MySQL, CSS e JavaScript. </p>
  <hr>
 </div>
 <div align="center">
