@@ -12,7 +12,7 @@ Sei PHP, HTML, Delphi, Java, MySQL, CSS e JavaScript. </p>
 </div>
 <div align="center">
   <a href="https://www.instagram.com/dhglmx_15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A80608?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title=Instagram></a>
-  <a href = "mailto:jessicaedines15@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A80608?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
+  <a href = "mailto:jessicaluanagulad@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A80608?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title=Gmail></a>
   <a href="https://www.linkedin.com/in/jessica-luana-gula-dreher/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A80608?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title=Linkedin> </a> 
 
 <div>
