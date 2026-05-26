@@ -5,7 +5,7 @@
 
 <hr>
 <div>
-<p align="center">   Me formei como tecnica de <b>desenvolvimento de sistemas</b> no Colégio Estadual de Pato Branco-CEPB e em 2024 finalizei o curso de <b>programador de sistema</b> do Senac.
+<p align="center">  Em 2024 finalizei o curso de <b>programador de sistema</b> do Senac. Me formei como tecnica em <b>analise e desenvolvimento de sistemas</b> no Colégio Estadual de Pato Branco-CEPB em 2025 e em 2026 ingressei na UTFPR 
 <br>
 Front-End: HTML, CSS e JavaScript.<br>Back-End: Java, C#, PHP e Delphi.<br>Bancos de Dados: MySQL e Firebird.  </p>
  <hr>
