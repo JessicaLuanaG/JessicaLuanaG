@@ -7,7 +7,7 @@
 <div>
 <p align="center">   Me formei como tecnica de <b>desenvolvimento de sistemas</b> no Colégio Estadual de Pato Branco-CEPB e em 2024 finalizei o curso de <b>programador de sistema</b> do Senac.
 <br>
-Sei PHP, HTML, Delphi, Java, MySQL, CSS e JavaScript. </p>
+Front-End: HTML, CSS e JavaScript.<br>Back-End: PHP, Delphi, Java e C#.<br>Bancos de Dados: MySQL e Firebird.  </p>
  <hr>
 </div>
 <div align="center">
