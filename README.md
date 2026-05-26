@@ -1,13 +1,13 @@
-
+<div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000">
-
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&random=false&width=900&lines=Hello%2C+my+name+is+Jessica;I'm+18+years+old;I+from+Brasil" alt="Typing SVG" />
 
 <hr>
 <div>
 <p align="center">   Me formei como tecnica de <b>desenvolvimento de sistemas</b> no Colégio Estadual de Pato Branco-CEPB e em 2024 finalizei o curso de <b>programador de sistema</b> do Senac.
 <br>
-Front-End: HTML, CSS e JavaScript.<br>Back-End: PHP, Delphi, Java e C#.<br>Bancos de Dados: MySQL e Firebird.  </p>
+Front-End: HTML, CSS e JavaScript.<br>Back-End: Java, C#, PHP e Delphi.<br>Bancos de Dados: MySQL e Firebird.  </p>
  <hr>
 </div>
 <div align="center">
