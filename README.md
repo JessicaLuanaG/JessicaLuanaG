@@ -1,7 +1,7 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000">
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&random=false&width=900&lines=Hello%2C+my+name+is+Jessica;I'm+18+years+old;I+from+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&random=false&width=900&lines=Hello%2C+my+name+is+Jessica;I'm+19+years+old;I+from+Brasil" alt="Typing SVG" />
 
 <hr>
 <div>
